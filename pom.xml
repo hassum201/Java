@@ -8,7 +8,7 @@
   <artifactId>BadCalcVeryBadJava</artifactId>
   <version>1.0-SNAPSHOT</version>
  <properties>
-  <sonar.organization>hassum201</sonar.organization>
+  <sonar.organization> hassum201 </sonar.organization>
 </properties>
 
   <!--
